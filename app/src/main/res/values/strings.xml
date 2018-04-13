@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentAnimView</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="long_text">   Activity transitions are animations that provide visual connections between different states in your UI. You can specify custom animations for enter and exit transitions, and for transitions of shared elements between activities.
+An enter transition determines how views in an activity enter the scene. For example in an explode enter transition, views enter the scene from the outside and fly towards the center of the screen.
+An exit transition determines how views in an activity exit the scene. For example in an explode exit transition, views exit the scene by moving away from the center.
+A shared elements transition determines how views that are shared between two activities transition between these activities. For example, if two activities have the same image in different positions and sizes, the changeImageTransform shared element transition translates and scales the image smoothly between these activities.The Android home screen can contain several pages of app icons, which launch the associated apps, and widgets, which display live, auto-updating content such as the weather, the users email inbox or a news ticker. Android can also play multimedia content such as music, animation, and video. The figure above shows app icons on the home screen (left), playing music (center), and displaying widgets (right). Along the top of the screen is a status bar, showing information about the device and its connectivity. The Android home screen may be made up of several pages, between which the user can swipe back and forth.
+Android is designed to provide immediate response to user input. Besides a fluid touch interface, the vibration capabilities of an Android device can provide haptic feedback. Internal hardware such as accelerometers, gyroscopes and proximity sensors, are used by many apps to respond to additional user actions. These sensors can detect rotation of the screen from portrait to landscape for a wider view or it can allow the user to steer a virtual vehicle in a racing game by rotating the device as if it were a steering wheel.</string>
+</resources>
